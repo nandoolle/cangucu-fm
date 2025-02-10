@@ -7,7 +7,12 @@ This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](
 Preview the example live on [StackBlitz](http://stackblitz.com/):
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
-.
+
+## Develop in Codeanywhere
+
+Use Codeanywhere to open this repository in an Online IDE to set up the workspace and start coding immediately. Click below to launch:  
+
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/nandoolle/cangucu-fm)
 
 ## Deploy your own
 
